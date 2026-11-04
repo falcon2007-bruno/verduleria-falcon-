@@ -1,0 +1,13 @@
+/* estilos.css - Estilos base complementarios para Verdulería FALCON */
+body {
+    background-color: #212529 !important;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+.card {
+    transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+    transform: translateY(-3px);
+}
